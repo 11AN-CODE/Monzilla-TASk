@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Monzilla-TASk/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/Monzilla-TASk/static/js/main.23424865.chunk.js",
+    "main.js.map": "/Monzilla-TASk/static/js/main.23424865.chunk.js.map",
+    "runtime~main.js": "/Monzilla-TASk/static/js/runtime~main.e80c0be7.js",
+    "runtime~main.js.map": "/Monzilla-TASk/static/js/runtime~main.e80c0be7.js.map",
+    "static/js/2.3b9912cb.chunk.js": "/Monzilla-TASk/static/js/2.3b9912cb.chunk.js",
+    "static/js/2.3b9912cb.chunk.js.map": "/Monzilla-TASk/static/js/2.3b9912cb.chunk.js.map",
+    "index.html": "/Monzilla-TASk/index.html",
+    "precache-manifest.546b316b3a82479e9257eaf6a0911356.js": "/Monzilla-TASk/precache-manifest.546b316b3a82479e9257eaf6a0911356.js",
+    "service-worker.js": "/Monzilla-TASk/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/Monzilla-TASk/static/css/main.5ecd60fb.chunk.css.map"
+  }
+}
